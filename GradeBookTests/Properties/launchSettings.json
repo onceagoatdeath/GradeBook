@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GradeBookTests": {
+      "commandName": "Project",
+      "commandLineArgs": "/main"
+    }
+  }
+}
